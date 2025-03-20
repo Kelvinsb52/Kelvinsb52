@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/refs/heads/master/icons/header_.png"/>
 
 <h2>🧑🏻‍💻 Here is a little about me </h2>
+
 * ❤️ I love to learn first and foremost with the goal to help build great things that will benefit people's life
 * 🔭 I’m currently working on Rowley, an app that helps me take notes and learn better and effectively
 * 🌱 I’m currently learning web development using the MERN stack
