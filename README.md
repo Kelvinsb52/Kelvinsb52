@@ -1,5 +1,5 @@
-## Hi there
-![Description of GIF](https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif)
+## Hi there ![Description of GIF](https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
